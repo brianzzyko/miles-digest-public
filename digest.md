@@ -1,44 +1,12 @@
 ---
 title: "里程文摘"
-date: 2026-11-23T07:12:59+08:00
-description: "ALL Accor 預告住宿送 5,000 點，限選定會員，無最低住宿晚數"
+date: 2026-11-24T10:37:38+08:00
+description: "IHG 第 11 檔買點加碼最高 100%，年度購買上限提高到 300,000 點；Marriott Bonvoy 買點加碼 55%，年度購買上限提高到 200,000 點"
 from: 2026-11-20
-to: 2026-11-23
+to: 2026-11-24
 ---
 
 ## 即將截止
-
-### 萬豪 Bonvoy 購點加碼最高 55%，年度額度提升至 20 萬點（11/23（一）截止）
-
-9/30
-
-萬豪Bonvoy購點最高加碼55%，每點低至0.81美分，年度上限增至20萬點，11月23日截止。
-
-來源：[loyaltylobby](https://loyaltylobby.com/2026/09/29/marriott-buy-points-at-up-55-bonus-increased-limit-through-november-9-2026/?omhide=true)、[omaat](https://onemileatatime.com/deals/buy-marriott-bonvoy-points/)
-
-### Marriott 定向 Amex Offer：住宿消費滿 $375 美元返 $150 美元，限收到通知的會員（11/23（一）截止）
-
-10/24
-
-Marriott 定向 Amex Offer，住宿滿 375 美元返 150 美元，限北美與加勒比海飯店，11/23 截止。
-
-來源：[frequentmiler](https://frequentmiler.com/marriott-amex-offer-spend-375-get-150-back-targeted/)、[omaat](https://onemileatatime.com/deals/marriott-amex-offers/)
-
-### Chase 定向優惠：美國 Marriott 酒店消費 10% 現金回饋，上限 $50（11/23（一）截止）
-
-11/10
-
-Chase 定向優惠：美國 Marriott 酒店滿 $100 回饋 10%，上限 $50，11/23 前。
-
-來源：[upgradedpoints](https://upgradedpoints.com/news/chase-offers-marriott/)
-
-### Flying Blue Multiply Your Miles：可倍增 1 月至 10 月累積哩程，最高 16 倍加 50% 加碼（11/23（一）截止）
-
-11/11
-
-Flying Blue 倍增今年哩程，16 倍加 50% 約每哩 1.07 歐分，限交易一次。
-
-來源：[loyaltylobby](https://loyaltylobby.com/2026/11/10/air-france-klm-flying-blue-multiply-your-miles-at-up-to-50-bonus-until-november-23-2026/?omhide=true)、[upgradedpoints](https://upgradedpoints.com/news/multiply-flying-blue-miles-promotion/)
 
 ### 英國 Amex MR 轉點 Hilton Honors 加碼 40%，為 2022 年以來首次（11/24（二）截止）
 
@@ -56,6 +24,14 @@ Marriott 綁定 Uber 得 1,000 點，再搭美國高級車款或 Uber Reserve �
 
 來源：[frequentmiler](https://frequentmiler.com/earn-2000-marriott-points-when-linking-uber-account-and-taking-a-ride/)
 
+### ALL Accor+ Explorer 贈禮會籍 25% 折扣，需為新會籍贈送（11/24（二）截止）
+
+11/19
+
+ALL Accor+ Explorer 贈禮會籍 25% 折扣，須在 11/24 當地時間 23:59 前購買，單筆最多 10 份。
+
+來源：[loyaltylobby](https://loyaltylobby.com/2026/11/18/all-accor-explorer-gift-promo-at-25-off-until-november-24-2026/?omhide=true)
+
 ### ANA Mileage Club 黑五獎勵機票折扣，國內線全面折扣、部分國際線經濟艙五折（11/24（二）截止）
 
 11/20
@@ -64,7 +40,7 @@ ANA 黑五減哩票須在 11/24 前完成開票，國際線限經濟艙五折。
 
 來源：[loyaltylobby](https://loyaltylobby.com/2026/11/19/ana-mileage-club-domestic-international-award-discount-promotion-book-november-20-24-2026/?omhide=true)、[travelideas](https://www.travelideas.tw/2026/11/airline-black-friday-deals.html)
 
-### 英國 ALL Accor 轉 Club Eurostar 加碼 25%，hfp 認為淡季不太划算（11/24（二）截止）
+### ALL Accor 轉 Club Eurostar 加碼 25%，hfp 認為淡季不太划算（11/24（二）截止）
 
 11/21
 
@@ -80,6 +56,14 @@ Copa 哩程加現金訂自營航班，現金部分打 6 折，免登錄。
 
 來源：[upgradedpoints](https://upgradedpoints.com/news/copa-connectmiles-miles-cash-discount/)
 
+### 雅高大中華區 Stay For More 連住 2 晚 75 折，免預付可彈性取消（11/26（四）截止）
+
+10/28
+
+雅高大中華區連住 2 晚 75 折，免預付可彈性取消，11/26 前訂房。
+
+來源：[travelideas](https://www.travelideas.tw/2026/10/Accor-stay-for-more-offer-25-off.html)
+
 ### Choice Privileges 買點最高加碼 40%，每點約 0.74 美分（11/26（四）截止）
 
 11/3
@@ -90,21 +74,29 @@ Choice Privileges 買點最高加碼 40%，每點約 0.74 美分，11/26 結束�
 
 ## 轉點與促銷
 
-### Prince of Travel：全球贈禮頁 Explorer 新會籍 25% 折扣，USD 255 降為 USD 191（11/25（三）截止）
+### Revolut RevPoints 轉 Avios 加碼 20%，限英國、西班牙、愛爾蘭客戶（11/30（一）截止）
 
-11/23 後續・新
+11/24・新
 
-Explorer 贈禮會籍降至 USD 191，不含 3,000 點加碼。
+Revolut RevPoints 轉 Avios 加碼 20%，限英國、愛爾蘭、西班牙居民。
 
-來源：[princeoftravel](https://princeoftravel.com/deals/all-accor-explorer/)
+來源：[loyaltylobby](https://loyaltylobby.com/2026/11/23/revolut-revpoints-to-avios-20-conversion-bonus-november-23-29-2026-uk-spain-ireland/?omhide=true)
 
-### Hilton 分時度假優惠：Orlando、Las Vegas $199，Hilton Head、Myrtle Beach $299（11/30（一）截止）
+### frequentmiler：Hilton 分時度假方案列出四地住宿清單，含 Orlando 五間度假村（11/30（一）截止）
 
-11/22 首報、11/23 後續・新
+11/22 首報、11/23 後續、11/24 後續・新
 
-Hilton 分時度假 3 晚 $199／$299 送 125k 點，稅金交通另計。
+Hilton 分時度假四地飯店名單，入住前 7 天內取消或未到扣一晚牌價。
 
-來源：[travelonpoints](https://travel-on-points.com/new-125k-hilton-timeshare-offer/)、[doctorofcredit](https://www.doctorofcredit.com/hilton-timeshare-offer-get-3-nights-100k-points-for-149/)
+來源：[frequentmiler](https://frequentmiler.com/hilton-timeshare-offer-125k-points-3-nights-starting-at-199/)、[travelonpoints](https://travel-on-points.com/new-125k-hilton-timeshare-offer/)、[doctorofcredit](https://www.doctorofcredit.com/hilton-timeshare-offer-get-3-nights-100k-points-for-149/)
+
+### ALL Accor Signature Escapes 奢華四品牌連住 2 至 10 晚彈性房價 75 折，免預付可退改（12/1（二）截止）
+
+11/24 後續・新
+
+雅高奢華四品牌連住 2 至 10 晚 75 折，免預付，退改依各館政策。
+
+來源：[travelideas](https://www.travelideas.tw/2026/11/Accor-Sofitel-MGallery-Signature-Escapes-25-off.html)
 
 ### ALL Accor 歐洲與北非黑五，連住 3 至 7 晚彈性房價 7 折，免預付可退改（12/1（二）截止）
 
@@ -114,6 +106,22 @@ Hilton 分時度假 3 晚 $199／$299 送 125k 點，稅金交通另計。
 
 來源：[travelideas](https://www.travelideas.tw/2026/11/Accor-black-friday.html)
 
+### ALL Accor 美洲區黑五，拉美最高 5 折、美加最高 45% 折扣，受邀會員 App 訂房可得 2 至 4 倍點數（12/2（三）截止）
+
+11/24・新
+
+ALL Accor 美洲黑五最高 5 折，受邀會員 App 訂首筆住宿享 2 至 4 倍點數。
+
+來源：[loyaltylobby](https://loyaltylobby.com/2026/11/23/all-accor-americas-up-to-50-off-black-friday-sale-up-to-4x-bonus-points-december-18-december-19-2027-book-by-december-2/?omhide=true)、[travelideas](https://www.travelideas.tw/2026/11/Accor-Americas-Black-Friday-50-off-4x-points.html)、[princeoftravel](https://princeoftravel.com/deals/all-accor-black-friday-sale/)
+
+### ALL Signature 黑五優惠，新會員首期月繳 6 折、年繳 Absolute 換算買點約省 32% 並賺狀態點（12/3（四）截止）
+
+11/24・新
+
+ALL Signature 黑五新會員首期最高 40% off，年繳 Absolute 換算買點約省 32%。
+
+來源：[loyaltylobby](https://loyaltylobby.com/2026/11/23/all-signature-up-to-30-40-off-back-friday-2026-offer-buy-points-at-32-off-earn-status-points/?omhide=true)
+
 ### World of Hyatt 轉 Air Canada Aeroplan 加碼 20%，轉點比率仍為 2:1（12/6（日）截止）
 
 11/21
@@ -121,6 +129,14 @@ Hilton 分時度假 3 晚 $199／$299 送 125k 點，稅金交通另計。
 Hyatt 轉 Aeroplan 加碼 20%，2:1 轉換加碼後仍不划算，11/18 至 12/6。
 
 來源：[loyaltylobby](https://loyaltylobby.com/2026/11/20/world-of-hyatt-to-air-canada-aeroplan-20-points-to-miles-conversion-bonus-november-18-december-6-2026/?omhide=true)
+
+### 土耳其航空 Miles&Smiles 買哩程 5 萬哩起有加碼，買 25 萬哩以上加碼 100%（12/10（四）截止）
+
+11/24・新
+
+土航買哩程 5 萬哩起有加碼，25 萬哩以上加碼 100%，每哩約 1.5 美分。
+
+來源：[loyaltylobby](https://loyaltylobby.com/2026/11/23/turkish-airlines-milessmiles-buy-miles-up-to-100-bonus-november-23-december-10-2026/?omhide=true)
 
 ### Air Canada Aeroplan 黑五買哩程神秘加碼，公開條款最高 100%（12/11（五）截止）
 
@@ -138,17 +154,25 @@ ALL Accor 澳洲公寓別墅長住最高約 8 折，12/11 前訂房，2027/4/19 
 
 來源：[travelideas](https://www.travelideas.tw/2026/11/Accor-Australia-Extended-Stay-20Off.html)
 
-### Marriott Bonvoy 與 Emirates 聯名活動，三次住宿最高加碼 10,000 點（12/16（三）截止）
+### IHG 第 11 檔買點加碼最高 100%，年度購買上限提高到 300,000 點（12/12（六）截止）
 
-11/21
+11/24・新
 
-Marriott 與 Emirates 聯名活動，登錄後三次付費住宿最高加碼 10,000 點，至 12/15。
+IHG 買點最高加碼 100%，滿額時每點約 0.5 美分，活動期間年度上限 30 萬點。
 
-來源：[loyaltylobby](https://loyaltylobby.com/2026/11/20/marriott-bonvoy-your-world-rewards-up-to-10000-bonus-points-for-stays-through-december-15-2026/?omhide=true)
+來源：[loyaltylobby](https://loyaltylobby.com/2026/11/23/ihg-buy-points-100-bonus-sale-with-increased-limit-until-november-23-december-11-2026/?omhide=true)
+
+### Marriott 與 Emirates 聯名活動：單次住宿不限最少晚數，同館連住只算 1 次，可與其他 Bonvoy 點數促銷併用（12/16（三）截止）
+
+11/21 首報、11/24 後續・新
+
+Marriott × Emirates 單次住宿 1 晚即可計入，可與其他點數促銷併用。
+
+來源：[travelideas](https://www.travelideas.tw/2026/11/Marriott-Emirates-Skywards-10000-Points.html)、[loyaltylobby](https://loyaltylobby.com/2026/11/20/marriott-bonvoy-your-world-rewards-up-to-10000-bonus-points-for-stays-through-december-15-2026/?omhide=true)
 
 ### loyaltylobby：美國 Amex MR 轉 LifeMiles 加碼 10%，條款確認時限與資格（12/17（四）截止）
 
-11/23 後續・新
+11/23 後續
 
 美國 Amex MR 轉 LifeMiles 加碼 10%，台北 12/17 14:59 截止。
 
@@ -156,7 +180,7 @@ Marriott 與 Emirates 聯名活動，登錄後三次付費住宿最高加碼 10,
 
 ### ALL Accor 預告住宿送 5,000 點，限選定會員，無最低住宿晚數（12/20（日）截止）
 
-11/23・新
+11/23
 
 ALL Accor 預告 12/6 至 12/20 訂房、住宿至 2027/1/22 送 5,000 點，限選定會員。
 
@@ -202,6 +226,22 @@ PayRewards 刷卡付商業帳單收 2.9%，可加價買可轉點，作者不建�
 
 來源：[mainlymiles](https://mainlymiles.com/2026/11/19/cathay-promo-up-to-6000-asia-miles-500-voucher/)
 
+### Marriott Bonvoy 買點加碼 55%，年度購買上限提高到 200,000 點
+
+11/24・新
+
+Marriott 買點加碼 55% 於 11/23 結束，每點約 0.80 美分，高於 hfp 估值。
+
+來源：[hfp](https://www.headforpoints.com/2026/11/23/55-bonus-buying-marriott-bonvoy-hotel-points/)
+
+### tpg 稱 Capital One Venture 75,000 哩加 $300 旅遊抵用開卡禮即將結束
+
+11/24・新
+
+Capital One Venture 75,000 哩加 $300 住宿抵用開卡禮即將結束。
+
+來源：[tpg](https://thepointsguy.com/news/last-chance-capital-one-venture-rewards/)
+
 ### Amex 拒絕作者將 Delta SkyMiles Platinum Business 降級，只能關卡
 
 11/22
@@ -212,21 +252,21 @@ Amex 不准 Delta 商務白金卡降級，作者關卡前先轉額度並訂位�
 
 ## 計畫與卡片變動
 
+### Hyatt 2027 里程碑新增兩張低類別免費住宿選項與 Delta 獎勵
+
+11/20 後續、11/22 後續、11/24 後續・新
+
+Hyatt 2027 年 60、100 晚里程碑可改選兩張 Cat 1 至 4 免費住宿。
+
+來源：[tlfl](https://www.turningleftforless.com/news-offers-big-hyatt-rewards-changes-marriott-cyber-week-sale-a-revpoints-to-avios-bonus/)、[milelion](https://milelion.com/2026/11/21/world-of-hyatt-adds-new-milestone-rewards-and-stackable-awards-but-nerfs-free-parking-for-globalists/)、[frequentmiler](https://frequentmiler.com/hyatts-2027-changes-ranked-from-best-to-worst/)、[travelideas](https://www.travelideas.tw/2026/11/Hyatt-2027-milestone-rewards.html)、[loyaltylobby](https://loyaltylobby.com/2026/11/19/hyatt-updates-world-of-hyatt-guest-loyalty-program-tcs-november-18-2026/?omhide=true)、[suitesmile](https://suitesmile.com/blog/2026/11/19/world-of-hyatt-revamps-milestone-rewards-awards-stackable/)、[pointstalent](https://www.pointstalent.com/2026/11/19/hyatt-2027-milestone-rewards-changes.html)、[hfp](https://www.headforpoints.com/2026/11/19/hyatt-adds-new-milestone-rewards/)
+
 ### Langham 拆解 Brilliant by Langham，賺點與兌換即將停止，改以年度消費定等級（2028/1/11（二）截止）
 
-11/23・新
+11/23
 
 Brilliant by Langham 2027/1/12 停止賺點，改以年度消費定等級。
 
 來源：[awardwallet](https://awardwallet.com/news/brilliant-by-langham-program-overhaul/)
-
-### Milelion：Lifetime Globalist 2028 年 3 月可得 1 張免費停車獎勵，Guest of Honor 效期縮為 12 個月
-
-11/20 後續、11/22 後續
-
-終身環球客 2028 年 3 月獲 1 張停車獎勵，Guest of Honor 效期縮至 12 個月。
-
-來源：[milelion](https://milelion.com/2026/11/21/world-of-hyatt-adds-new-milestone-rewards-and-stackable-awards-but-nerfs-free-parking-for-globalists/)、[frequentmiler](https://frequentmiler.com/hyatts-2027-changes-ranked-from-best-to-worst/)、[travelideas](https://www.travelideas.tw/2026/11/Hyatt-2027-milestone-rewards.html)、[loyaltylobby](https://loyaltylobby.com/2026/11/19/hyatt-updates-world-of-hyatt-guest-loyalty-program-tcs-november-18-2026/?omhide=true)、[suitesmile](https://suitesmile.com/blog/2026/11/19/world-of-hyatt-revamps-milestone-rewards-awards-stackable/)、[pointstalent](https://www.pointstalent.com/2026/11/19/hyatt-2027-milestone-rewards-changes.html)、[hfp](https://www.headforpoints.com/2026/11/19/hyatt-adds-new-milestone-rewards/)
 
 ### Scoot 2027 年初開放 KrisFlyer 哩程兌換 ScootPlus，費率未公布
 
@@ -270,9 +310,41 @@ Hyatt 與 Delta 另有美國會員抽獎，先連結帳號可多一次機會。
 
 ## 獎位與航線
 
+### pointstalent：日航跨太平洋商務艙里程票連日定時放票，JAL 點數 55K 起
+
+11/24・新
+
+日航跨太平洋 U 艙商務艙獎位連日定時放票，AA 60K、日航點數 55K 起。
+
+來源：[pointstalent](https://www.pointstalent.com/2026/11/22/jl-release-trans-pacific-business-class-award-for-3-days.html)
+
+### 星宇台北－釜山 12/21 起部分班次改飛 A330neo，至 2027/2/28
+
+11/24・新
+
+星宇台北－釜山 12/21 至 2027/2/28 每週最多 4 班改由 A330neo 執飛。
+
+來源：[aeroroutes](https://www.aeroroutes.com/eng/261123-jxnw26pus)
+
+### 新航樟宜頭等艙 SilverKris 貴賓室改為桌邊服務，新增紙本菜單與新菜色
+
+11/24・新
+
+新航樟宜頭等艙 SilverKris 貴賓室預設桌邊服務，新增紙本菜單與牛排、虎蝦等新菜色。
+
+來源：[milelion](https://milelion.com/2026/11/23/impressive-sia-first-class-silverkris-lounge-adds-table-service-and-new-menus/)
+
+### 東京柏悅酒店 1、2 月與 2027 年 8 月釋出大量 35K 點標準房獎位
+
+11/24・新
+
+東京柏悅 1、2 月與 2027 年 8 月釋出每晚 35,000 點的標準房獎位，最高級距 75,000 點。
+
+來源：[upgradedpoints](https://upgradedpoints.com/news/award-alert-park-hyatt-tokyo/)
+
 ### 英航與 Iberia Avios 獎位盤點：倫敦飛新加坡、東京最多 6 個獎位
 
-11/23・新
+11/23
 
 英航倫敦飛新加坡、東京部分日期最多 6 個 Avios 獎位。
 
@@ -303,6 +375,38 @@ ANA 羽田－米蘭 2027/2/20 至 3/27 維持每週 3 班 787-9。
 來源：[aeroroutes](https://www.aeroroutes.com/eng/261119-sqns27mel)
 
 ## 航訊
+
+### 卡達航空新增日航夏威夷代碼共享
+
+11/24・新
+
+11 月中起，卡達航空在日航大阪關西－檀香山、東京成田－檀香山航線掛班號。
+
+來源：[aeroroutes](https://www.aeroroutes.com/eng/261123-qrjlcodeshare)
+
+### WestJet 擴大與大韓代碼共享
+
+11/24・新
+
+11 月初起新增首爾仁川－福岡、長崎、名古屋、沖繩、大阪關西、札幌新千歲共 6 條航線。
+
+來源：[aeroroutes](https://www.aeroroutes.com/eng/261123-wskecodeshare)
+
+### Jin Air 777 班表延長至 2027 年 1 月
+
+11/24・新
+
+777-200ER 清州－濟州至 12/31 每日至少 2 班；仁川－福岡至 12/8 每日 1 班；仁川－名古屋 12/25 至 2027/1/3；仁川－台北桃園至 12/20 每日 1 班。
+
+來源：[aeroroutes](https://www.aeroroutes.com/eng/261123-ljnw26777)
+
+### Sun PhuQuoc Airways 加峴港－首爾
+
+11/24・新
+
+新航線，2027/1/15 起每日 1 班 A321neo，是該公司峴港首條國際線。
+
+來源：[aeroroutes](https://www.aeroroutes.com/eng/261123-9g1q27dad)
 
 ### 阿聯酋 2027 年 1 月杜拜－東京成田減班
 
@@ -346,9 +450,25 @@ EK320/321 於 2027/1/11、13、18、26 取消，東京出發為隔日；EK318/31
 
 ## 卡片速覽
 
+### Citi AAdvantage Executive Card
+
+11/24・新
+
+年費 $695，主卡人含 Admirals Club 完整會籍（自行購買約 $1,200 至 $1,400）。新增 165,000 與 240,000 Loyalty Points 兩檔門檻各獎 10,000 LP，以及每年 $200 inKind 餐飲額度（上、下半年各 $100），作者持有並認為比 $595 時更值得，無海外交易手續費。
+
+來源：[vftw](https://viewfromthewing.com/citi-aadvantage-executive-card-review-better-lounges-and-more-status-credit/)
+
+### Southwest Rapid Rewards Plus Credit Card
+
+11/24・新
+
+年費 $99，開卡禮 80,000 點（前 3 個月消費 $1,000）。含第一件託運行李免費、每年 3,000 點，無海外交易手續費。想讓開卡點數最後一次計入 Companion Pass 資格，須在 12/2 前申卡；目前持有或 24 個月內拿過 Southwest 個人卡開卡禮者不能申請。作者認為是入門好選擇，但不是最划算的 Southwest 卡。
+
+來源：[omaat](https://onemileatatime.com/reviews/credit-cards/chase/southwest-airlines-plus-card/)
+
 ### Citi AAdvantage Globe Card
 
-11/23・新
+11/23
 
 年費 $350，首年不免；目前開卡禮 6 萬 AAdvantage 里程（前三個月消費 $4,000），過去 48 個月內領過 Globe 開卡禮者不適用，由其他已領獎的 Citi 卡轉成 Globe 也有限制；無海外交易手續費。作者看重 Flight Streak 每年最多加 15,000 Loyalty Points，限主卡人持卡後搭乘的合資格 American 航段，獎勵機票不算；飛滿 12 段合資格航段且想衝 American 會籍者值得加辦。
 
@@ -404,15 +524,27 @@ tpg：年費 $195 全公司一張，員工卡免費。開卡禮 90,000 點（90 
 
 ## 評測與遊記
 
+### Royal Caribbean Legend of the Seas 首航體驗：Spacious Infinite Ocean View Balcony Room 與五項意外發現
+
+11/24・新
+
+來源：[tpg](https://thepointsguy.com/cruise/royal-caribbean-legend-of-the-seas-inaugural/)
+
+### Palihotel Hollywood 洛杉磯好萊塢：Palisociety 精品飯店導覽，部分分館已加入 Marriott Bonvoy
+
+11/24・新
+
+來源：[tpg](https://thepointsguy.com/hotel/palisociety-hotels/)
+
 ### Secrets Playa Blanca Costa Mujeres（Hyatt Inclusive，坎昆北邊 Costa Mujeres）Preferred Oceanfront King 住宿評測
 
-11/23・新
+11/23
 
 來源：[lalf](https://liveandletsfly.com/review-secrets-playa-blanca-costa-mujeres-hyatt-inclusive/)
 
 ### 2026 年 5 月 阿姆斯特丹 Andaz Amsterdam Prinsengracht 運河景房入住評測
 
-11/23・新
+11/23
 
 來源：[pointstalent](https://www.pointstalent.com/2026/11/21/andaz-amsterdam-prinsengracht-review.html)
 
