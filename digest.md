@@ -1,6 +1,6 @@
 ---
 title: "里程文摘"
-date: 2026-11-25T14:38:14+08:00
+date: 2026-11-25T14:50:59+08:00
 description: "Virgin Atlantic Flying Club 買點最高加碼 80%，活動期間購買上限提高至 40 萬點；Aeroplan 點數 11/30 起恢復 18 個月到期，此前 18 個月無活動的帳戶點數當天到期"
 from: 2026-11-20
 to: 2026-11-25
@@ -89,6 +89,14 @@ Marriott Cyber Sale 條款：會員 App 訂房 75 折，須預付且不可退。
 ALL Accor 美洲黑五最高 5 折，受邀會員 App 訂房 2 至 4 倍點數。
 
 來源：[loyaltylobby](https://loyaltylobby.com/2026/11/23/all-accor-americas-up-to-50-off-black-friday-sale-up-to-4x-bonus-points-december-18-december-19-2027-book-by-december-2/?omhide=true)、[travelideas](https://www.travelideas.tw/2026/11/Accor-Americas-Black-Friday-50-off-4x-points.html)、[princeoftravel](https://princeoftravel.com/deals/all-accor-black-friday-sale/)
+
+### 溫德姆黑五網一大促：買分最高 100% 加碼，Q4 住宿 4 倍積分須先註冊（12/3（四）截止）
+
+11/25・新
+
+溫德姆買分最高 100% 加贈，各區黑五折扣，Q4 4 倍積分須先註冊。
+
+來源：[travelideas](https://www.travelideas.tw/2026/11/wyndham-black-friday-buy-points.html)
 
 ### ALL Signature 黑五優惠，新會員首期月繳 6 折、年繳 Absolute 換算買點約省 32% 並賺狀態點（12/3（四）截止）
 
@@ -201,14 +209,6 @@ IHG 雙倍房晚條款補充：不算 Rollover Nights，同期另有兩檔定向
 Virgin 買點最高加碼 80%，買滿 40 萬點的美國帳號每點約 1.39 美分。
 
 來源：[loyaltylobby](https://loyaltylobby.com/2026/11/24/virgin-atlantic-buy-miles-up-to-80-bonus-through-december-31-2026/?omhide=true)、[omaat](https://onemileatatime.com/deals/buy-virgin-atlantic-flying-club-points/)、[pointstalent](https://www.pointstalent.com/2026/11/24/airlines-miles-promotion-summary.html)、[awardwallet](https://awardwallet.com/airlines/virgin-atlantic-flying-club/buy-virgin-points/)、[tlfl](https://www.turningleftforless.com/black-friday-offers-virgin-80-buy-bonus-avios-extra-100-bonus-30-off-avios-preferred-hotels-sale-and-ihg-100-bonus/)、[upgradedpoints](https://upgradedpoints.com/news/purchase-virgin-atlantic-flying-club-points-bonus/)
-
-### 溫德姆黑五網一大促：買分最高 100% 加碼，Q4 住宿 4 倍積分須先註冊（2027/1/1（五）截止）
-
-11/25・新
-
-溫德姆買分最高 100% 加贈，各區黑五折扣，Q4 4 倍積分須先註冊。
-
-來源：[travelideas](https://www.travelideas.tw/2026/11/wyndham-black-friday-buy-points.html)
 
 ### PayRewards 刷卡付商業帳單收 2.9%，可加價買可轉點，Atmos Rewards 12/1 起支援（2027/1/1（五）截止）
 
