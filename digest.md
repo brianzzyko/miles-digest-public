@@ -1,6 +1,6 @@
 ---
 title: "里程文摘"
-date: 2026-11-25T07:14:11+08:00
+date: 2026-11-25T14:34:28+08:00
 description: "Virgin Atlantic Flying Club 買點最高加碼 80%，活動期間購買上限提高至 40 萬點；Aeroplan 點數 11/30 起恢復 18 個月到期，此前 18 個月無活動的帳戶點數當天到期"
 from: 2026-11-20
 to: 2026-11-25
@@ -82,11 +82,11 @@ Hilton 分時度假四地飯店名單，入住前 7 天內取消或未到扣一�
 
 來源：[travelideas](https://www.travelideas.tw/2026/11/Accor-black-friday.html)
 
-### Marriott Cyber Sale 條款：App 75 折，公開價 85 折，須預付且不可取消（12/2（三）截止）
+### Marriott Cyber Sale 正式開跑：Bonvoy 會員 App 訂房 75 折，須預付且不可取消（12/2（三）截止）
 
-11/25 後續、11/25 後續・新
+11/25 後續・新
 
-Marriott Cyber Sale 官方條款：App 75 折、公開價 85 折，須預付不可取消。
+Marriott Cyber Sale 條款：會員 App 訂房 75 折，須預付且不可退。
 
 來源：[loyaltylobby](https://loyaltylobby.com/2026/11/24/marriott-25-off-2026-cyber-sale-for-weekend-stays-november-29-may-2-2027-book-november-24-december-1/?omhide=true)、[hfp](https://www.headforpoints.com/2026/11/24/save-25-on-interrail-passes/)
 
@@ -210,6 +210,14 @@ Virgin 買點最高加碼 80%，買滿 40 萬點的美國帳號每點約 1.39 �
 
 來源：[loyaltylobby](https://loyaltylobby.com/2026/11/24/virgin-atlantic-buy-miles-up-to-80-bonus-through-december-31-2026/?omhide=true)、[omaat](https://onemileatatime.com/deals/buy-virgin-atlantic-flying-club-points/)、[pointstalent](https://www.pointstalent.com/2026/11/24/airlines-miles-promotion-summary.html)、[awardwallet](https://awardwallet.com/airlines/virgin-atlantic-flying-club/buy-virgin-points/)、[tlfl](https://www.turningleftforless.com/black-friday-offers-virgin-80-buy-bonus-avios-extra-100-bonus-30-off-avios-preferred-hotels-sale-and-ihg-100-bonus/)、[upgradedpoints](https://upgradedpoints.com/news/purchase-virgin-atlantic-flying-club-points-bonus/)
 
+### 溫德姆黑五網一大促：買分最高 100% 加碼，Q4 住宿 4 倍積分須先註冊（2027/1/1（五）截止）
+
+11/25・新
+
+溫德姆買分最高 100% 加贈，各區黑五折扣，Q4 4 倍積分須先註冊。
+
+來源：[travelideas](https://www.travelideas.tw/2026/11/wyndham-black-friday-buy-points.html)
+
 ### PayRewards 刷卡付商業帳單收 2.9%，可加價買可轉點，Atmos Rewards 12/1 起支援（2027/1/1（五）截止）
 
 11/21
@@ -230,7 +238,7 @@ PayRewards 刷卡付商業帳單收 2.9%，可加價買可轉點，作者不建�
 
 11/25 後續・新
 
-ALL Accor 4 倍點數名單換新共 36 家，2027/1/17 前登錄並訂房。
+ALL Accor 4 倍點數換新名單 36 家，須先登錄，2027/1/17 前訂房。
 
 來源：[loyaltylobby](https://loyaltylobby.com/2026/11/23/all-accor-4x-points-at-select-hotels-november-23-may-16-2027-book-by-january-22/?omhide=true)
 
@@ -404,7 +412,7 @@ ANA 羽田－米蘭 2027/2/20 至 3/27 維持每週 3 班 787-9。
 
 11/25・新
 
-海南航空上海浦東－布魯塞爾延長減班，至 12/19 每週 1 班（原為每週 3 班），12/20 至 12/28 停飛，機型 789。
+海南航空上海浦東－布魯塞爾延長減班，至 12/19 只在週六往返各飛 1 班（原為每週 3 班），12/20 至 12/28 停飛，機型 789。
 
 來源：[aeroroutes](https://www.aeroroutes.com/eng/261124-hudec26pvgbru)
 
@@ -486,7 +494,7 @@ EK320/321 於 2027/1/11、13、18、26 取消，東京出發為隔日；EK318/31
 
 11/25・新
 
-首年免年費，之後 $99，2027/1/24 起續約升為 $150，現在新申請者首年後年費即為 $150。開卡禮 5 萬哩，3 個月內消費 $2,500；過去 48 個月領過 Platinum Select 開卡禮，或在該期間把領過開卡禮的其他 Citi 卡轉成 Platinum Select 者，不符資格。每 $1 賺 1 點 Loyalty Point 且無上限，作者認為 AAdvantage 是刷卡累積會籍的整體首選。
+首年免年費，之後 $99，2027/1/24 起續約升為 $150，現在新申請者首年後年費即為 $150。開卡禮 5 萬哩，3 個月內消費 $2,500；過去 48 個月領過 Platinum Select 開卡禮，或在該期間把領過開卡禮的其他 Citi 卡轉成 Platinum Select 者，不符資格。每 $1 合資格消費賺 1 點 Loyalty Point 且無上限，作者認為在美國的航空常客計畫中，AAdvantage 是刷卡累積會籍的整體首選。
 
 來源：[vftw](https://viewfromthewing.com/citi-aadvantage-platinum-select-review-why-american-still-wins-for-credit-card-spending-toward-status/)
 
