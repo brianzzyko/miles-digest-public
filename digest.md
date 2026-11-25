@@ -1,6 +1,6 @@
 ---
 title: "里程文摘"
-date: 2026-11-25T14:34:28+08:00
+date: 2026-11-25T14:38:14+08:00
 description: "Virgin Atlantic Flying Club 買點最高加碼 80%，活動期間購買上限提高至 40 萬點；Aeroplan 點數 11/30 起恢復 18 個月到期，此前 18 個月無活動的帳戶點數當天到期"
 from: 2026-11-20
 to: 2026-11-25
@@ -41,14 +41,6 @@ Choice Privileges 買點最高加碼 40%，每點約 0.74 美分，11/26 結束�
 來源：[travelideas](https://www.travelideas.tw/2026/10/Marriott-japan-bonus-points-osaka-kagoshima.html)
 
 ## 轉點與促銷
-
-### Prince of Travel：全球贈禮頁 Explorer 新會籍 25% 折扣，USD 255 降為 USD 191（11/25（三）截止）
-
-11/23 後續
-
-Explorer 贈禮會籍降至 USD 191，不含 3,000 點加碼。
-
-來源：[princeoftravel](https://princeoftravel.com/deals/all-accor-explorer/)
 
 ### Revolut RevPoints 轉 Avios 加碼 20%，限英國、西班牙、愛爾蘭客戶（11/30（一）截止）
 
